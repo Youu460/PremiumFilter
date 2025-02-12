@@ -21,26 +21,20 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
-    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Tamilanz_Auto_Filter_Bot>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Sharathitsisme>sʜᴀʀᴀᴛʜ</a>
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
-📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/TamilanMoviesChat>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://github.com/TamilanBotsZ/PremiumFilter>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
+    ABOUT_TXT = """<b>
+◎ Cʀᴇᴀᴛᴏʀ: <b><a href='t.me/Leomc_bot'>Cʀᴇᴀᴛᴏʀ</a></b>
+◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
+◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
+◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ
-
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a>
-
-- & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
-
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ</b>
-
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a></b>
-
-- Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
-
+    SOURCE_TXT = """<b>NOTE</b>:
+⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
+- <b>​<a href='t.me/Leomc_bot'>sᴏᴜʀᴄᴇ ʜᴇʀᴇ</a></b>"""
+    
+    SOURCES_TXT = """<b>NOTE</b>:
+⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
+- <b>​<a href='t.me/Leomc_bot'>sᴏᴜʀᴄᴇ ʜᴇʀᴇ</a></b>"""
+    
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
 ᴇɢ :- /font hi da"""
@@ -87,7 +81,9 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 👩🏻‍💻 ᴜsᴇʀs: <code>{}</code>
 👥 ɢʀᴏᴜᴘs: <code>{}</code>
 🗂️ ᴏᴄᴄᴜᴘɪᴇᴅ: <code>{}</code>
-🗄️ ғʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code></b>
+🗄️ ғʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>
+
+MMW BOTZ</b>
 """
     LOG_TEXT_G = """<b> #NewGroup
 👥 ɢʀᴏᴜᴘ 👥 = {}(<code>{}</code>)
